@@ -13,6 +13,6 @@ for i in range(3):# range 0, 1, 2
     elements[i].send_keys("b")
     time.sleep(5)
 
-     #  дописать юнит тест
+     #  дописать юнит тест, не успела
 
 
